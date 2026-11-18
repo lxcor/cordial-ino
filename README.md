@@ -1,5 +1,7 @@
 # Cordial for Arduino
 
+By Alexandre Scozzafave Alves · [cordial.lxcor.com](https://cordial.lxcor.com)
+
 The Cordial clock as an Arduino library: 26 hours of 52 minutes of 52 seconds, seven crons to a Cordial second, the day starting at noon.
 Integer arithmetic only (no floats, no heap).
 
