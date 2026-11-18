@@ -1,0 +1,11 @@
+CordialTime	KEYWORD1
+CordialClock	KEYWORD1
+cordialFromSecondsSinceNoon	KEYWORD2
+cordialFromGregorian	KEYWORD2
+cordialToGregorianSeconds	KEYWORD2
+cordialFormat	KEYWORD2
+setCrons	KEYWORD2
+addCycles	KEYWORD2
+time	KEYWORD2
+crons	KEYWORD2
+CORDIAL_CRONS_IN_DAY	LITERAL1
